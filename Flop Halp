@@ -1,0 +1,4 @@
+ public Square(){
+        generateRandomXLocation();
+        generateRandomSquareSize();
+        generateRandomFallSpeed();
